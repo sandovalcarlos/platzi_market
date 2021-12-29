@@ -1,6 +1,7 @@
 package com.sandoval.platzi.market.persistence.entity;
 
 import javax.persistence.*;
+import java.time.LocalDateTime;
 
 @Entity
 @Table(name = "compras")
